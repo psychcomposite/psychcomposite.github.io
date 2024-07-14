@@ -5,7 +5,7 @@ has_children: true
 
 # Theory
 
-PsychComposite outlines 6 dichotomies, 12 primitives and 3 (as of now) temperaments.
+PsychComposite outlines 6 dichotomies, 12 primitives and 7 (as of now) temperaments.
 For each dichotomy where a clear preference towards a specific primitive exists, the corresponding primitive letter is included, and together they are aggregated to form a personality type, e.g. DSAI, LSI, YP. 
 Contrary to other personality systems we do not require that you have a clear preference in every dichotomy; DS is hence just as valid of a personality type as DSAIYP.
 When a preference in multiple dichotomies exists, the person/type is said to belong to a set of [Temperaments](/theory/temperaments).
@@ -35,20 +35,19 @@ See the following exhaustive mapping table:
 | INFJ      | NAIYM |
 | INTJ      | NAIP |
 | ISTP      | NLRP |
-| ISFP      | NLRUM |
-| INFP      | NARUM |
+| ISFP      | NLRM |
+| INFP      | NARM |
 | INTP      | NARP |
 | ESTP      | DLRP |
-| ESFP      | DLRUM |
-| ENFP      | DARUM |
+| ESFP      | DLRM |
+| ENFP      | DARM |
 | ENTP      | DARP |
 | ESTJ      | DAIM |
 | ESFJ      | DAIYM |
 | ENFJ      | DAIYM |
 | ENTJ      | DAIP |
 
-The observant reader might notice that MBTI F-types have one more mapped primitive than MBTI T-types. MBTI FJ types have Yielding (Y) preferences while MBTI FP types have Unique (U) preferences.
-MBTI/JUNGIAN typology has in fact no equivalents for the IUM (imposing, unique, moralist) or RYM (reconciling, yielding, moralist) types due to assumptions (my feelings vs their feeling) about the extraverted and introverted feeling functions.
+Note that MBTI/JUNGIAN typology does not really have proper equivalents for IUM (imposing, unique, moralist) or RYM (reconciling, yielding, moralist) types due to assumptions (my feelings vs their feeling) about the introverted and extraverted feeling functions. It seems likely that high Yielding (Y) is required for Fe, but it's counterpart - Unique (U) - is not really needed for high Fi. That is to say that some MBTI FP types should be considered Yielding (Y) and some Unique (U). This preference could distinguish people-pleasing FP types from more hard-headed FP moralists.
 
 ### Jung's cognitive functions
 
