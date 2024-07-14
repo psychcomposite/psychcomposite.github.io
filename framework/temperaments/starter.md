@@ -10,7 +10,7 @@ People in this category may be more inclined to start projects without finishing
 
 ## Why?
 
-| Preference| Motivation |
-| :---------| :--------- |
-| **D**     | Associated with high motivation; likely to start projects |
-| **F**     | Associated with deconstruction of thought via faster catecholamine breakdown which might interfere with sustained attention |
+| Primitive     | Motivation |
+| :-------------| :--------- |
+| Dependent (D) | Associated with high motivation; likely to start projects |
+| Flexible (F)  | Associated with deconstruction of thought via faster catecholamine breakdown which might interfere with sustained attention |

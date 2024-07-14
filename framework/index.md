@@ -35,7 +35,19 @@ The dichotomies are defined as follows:
 5. [Yielding (Y)](/framework/primitives/yielding) vs [Unwavering (U)](/framework/primitives/unwavering)
 6. [Pragmatist (P)](/framework/primitives/pragmatist) vs [Moralizer (M)](/framework/primitives/moralizer)
 
-## Correlations
+## Ties to other personality systems
+
+### Big 5
+
+| Facet            | Mapped primitives |
+| :--------        | :------: |
+| Openness         | A |
+| Conscientousness | S*I |
+| Extraversion     | D |
+| Agreeableness    | YM |
+| Neuroticism      | |
+
+*to be taken with a grain of salt, have not seen evidence for cognitive stability being implicated in conscientousness but my hypothesis is that it should be 
 
 ### MBTI type
 

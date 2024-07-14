@@ -10,7 +10,7 @@ People in this category may score higher on subfacet Warmth as part of the Big 5
 
 ## Why?
 
-| Preference| Motivation |
-| :---------| :--------- |
-| **D**     | Associated with high score on extraversion which is associated with assertiveness |
-| **Y**     | Associated with oxytocin-mediated bonding  |
+| Primitive     | Motivation |
+| :-------------| :--------- |
+| Dependent (D) | Associated with high score on extraversion which is associated with assertiveness |
+| Yielding (Y)  | Associated with oxytocin-mediated bonding  |
