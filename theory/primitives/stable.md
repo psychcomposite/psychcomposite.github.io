@@ -19,7 +19,13 @@ High top-down-control, leaning towards cognitive stability.
 
 ### Characteristics
 
-sustained attention to salient thoughts, intentional, hard to let go of things, prolonged and deep focus sessions, at their best with no stress, more comfortable doing less, insight "aha" problem solving, experiences ups and downs in life as more intense, may have been labelled HSP and/or OCD, worrier, pain sensitivity, avoids high risk sports
+sustained attention to salient thoughts, intentional, hard to let go of things, prolonged and deep focus sessions, at their best with no stress, more comfortable doing less, insight "aha" problem solving, experiences ups and downs in life as more intense, may have been labelled HSP and/or OCD, worrier, pain sensitivity, not attracted to high risk sports
+
+## Questionnaire items
+
+* I perform worse under stress
+* I have a hard time letting go of things
+* Multitasking is my thing (reversed)
 
 ## In relationship to ...
 
