@@ -6,19 +6,20 @@ grand_parent: Theory
 
 # Stable (S)
 
-## Overview
+## Profile
 
-### Defintion
+### Definition
 
-People with high tonic PFC dopamine and hence cogntively stable in terms of insensitivity to phasic spikes of dopamine.
+High top-down-control, leaning towards cognitive stability.
 
-### Descriptive items
+### Correlations
 
-sustained attention to salient thoughts, intentional, hard to let go of things, prolonged and deep focus sessions, performs best without stress, more comfortable doing less, insight "aha" problem solving, experiences ups and downs in life as more intense, may have been labelled HSP and/or OCD, worrier, pain sensitivity, avoids high risk sports
+* Slow central COMT activity (e.g. rs4680 A-allele)
+* High tonic dopamine and corresponding insensitivity to phasic dopamine spikes (prefrontal cortex)
 
-### Biological correlate
+### Characteristics
 
-Central COMT activity, rs4680
+sustained attention to salient thoughts, intentional, hard to let go of things, prolonged and deep focus sessions, at their best with no stress, more comfortable doing less, insight "aha" problem solving, experiences ups and downs in life as more intense, may have been labelled HSP and/or OCD, worrier, pain sensitivity, avoids high risk sports
 
 ## In relationship to ...
 

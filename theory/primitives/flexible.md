@@ -4,10 +4,19 @@ parent: Primitives
 grand_parent: Theory
 ---
 
-# Flexible
+# Flexible (F)
 
-## Overview
+## Profile
 
 ### Definition
 
-People with low tonic PFC dopamine and hence cogntively flexible in terms of sensitivity to phasic spikes of dopamine. 
+Low top-down-control, leaning towards cognitive flexibility.
+
+### Correlations
+
+* High central COMT activity (e.g. rs4680 A-allele)
+* Low tonic dopamine and corresponding sensitivity to phasic dopamine spikes (prefrontal cortex)
+
+### Characteristics
+
+easily shifts gear, distracted, easy to let go of things, in their element during stressful periods or exams, uncomfortable not doing, emotional resilience, may have been labelled ADHD, warrier, lower pain sensitivity, likes high risk sports

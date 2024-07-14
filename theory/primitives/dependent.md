@@ -6,9 +6,14 @@ grand_parent: Theory
 
 # Dependent (D)
 
-## Overview
+## Profile
 
 ### Definition
 
-People with high Reward Dependence as a result of either appropriate stratial dopaminergic activity and sufficiently low baseline noradrenergic signalling.
+High motivation phenotype.
 
+### Correlations
+
+* High score on trait Extraversion
+* High score on trait Reward Dependence
+* High stratial dopaminergic activity and/or low baseline noradrenergic signalling

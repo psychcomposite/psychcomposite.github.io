@@ -6,9 +6,14 @@ grand_parent: Theory
 
 # Literal (L)
 
-## Overview
+## Profile
 
 ### Definition
 
-People with relatively infrequent or surpressed default-mode network activity and a low score on Openness to Experience.
+Infrequent or supressed default-mode network activity.
+
+### Correlations
+
+* Low score on Openness to Experience
+
 

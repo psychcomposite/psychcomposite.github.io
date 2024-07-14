@@ -6,8 +6,13 @@ grand_parent: Theory
 
 # Reconciling (R)
 
-## Overview
+## Profile
 
 ### Definition
 
-People with a low need to order/structure the outside world and a high score on ambiguity tolerance.
+Relatively low need to enforce order/structure in the outside world.
+
+### Correlations
+
+* High score on ambiguity tolerance
+* Low score on Orderliness subfacet of Big 5 trait Conscientousnes

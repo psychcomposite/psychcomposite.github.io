@@ -6,8 +6,16 @@ grand_parent: Theory
 
 # Pragmatist (P)
 
-## Overview
+## Profile
 
 ### Definition
 
-People who preferentially view the world in terms of cause-and-effect as opposed to value judgements.
+Tendency to view the world through cause-and-effect relationships as opposed to value judgements.
+
+### Correlations
+
+* Comparitively high prenatal testosterone
+
+### Characteristics
+
+more interested in things than people, may have studied engineering of another technical professions, not inclined to consider a subject dry, does usually think that people ought to behave certain ways, high mach behaviour, non-judgemental, impartial

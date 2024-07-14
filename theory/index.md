@@ -9,7 +9,7 @@ PsychComposite outlines 6 dichotomies, 12 primitives and 3 (as of now) temperame
 For each dichotomy where a clear preference towards a specific primitive exists, the corresponding primitive letter is included, and together they are aggregated to form a personality type, e.g. DSAI, LSI, YP. 
 Contrary to other personality systems we do not require that you have a clear preference in every dichotomy; DS is hence just as valid of a personality type as DSAIYP.
 When a preference in multiple dichotomies exists, the person/type is said to belong to a set of [Temperaments](/theory/temperaments).
-For example, a person with DFU preferences belongs to the temperaments [Starter (DF)](/theory/temperaments/starter) and [Assertiveness (DU)](/theory/temperaments/assertiveness).
+For example, a person with DFY preferences belongs to the temperaments [Starter (DF)](/theory/temperaments/starter) and [Warmth (DY)](/theory/temperaments/warmth).
 
 ## Dichotomies
 
@@ -39,8 +39,8 @@ See the following exhaustive mapping table:
 | INFP      | NARUM |
 | INTP      | NARP |
 | ESTP      | DLRP |
-| ESFP      | DLRM |
-| ENFP      | DARM |
+| ESFP      | DLRUM |
+| ENFP      | DARUM |
 | ENTP      | DARP |
 | ESTJ      | DAIM |
 | ESFJ      | DAIYM |

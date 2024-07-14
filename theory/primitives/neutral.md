@@ -6,9 +6,15 @@ grand_parent: Theory
 
 # Neutral (N)
 
-## Overview
+## Profile
 
 ### Definition
 
-People with low Reward Dependence as a result of either low stratial dopaminergic activity or high baseline noradrenergic signalling.
+Low motivation phenotype.
+
+### Correlations
+
+* Low score on trait Extraversion
+* Low score on trait Reward Dependence
+* Low stratial dopaminergic activity and/or high baseline noradrenergic signalling
 

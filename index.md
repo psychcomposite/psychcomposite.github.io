@@ -29,4 +29,6 @@ We do aim for falsifiability of the theory in the Karl Popper sense of the word.
 
 ## Feedback
 
-Please see our subreddit [/r/psychcomposite](www.reddit.com/r/psychcomposite).
+Please send me a mail at psychcomposite@gmail.com.
+I am happy to receive ideas for new temperaments or general feedback on the theory.
+We also have a subreddit on [/r/psychcomposite](https://www.reddit.com/r/psychcomposite).

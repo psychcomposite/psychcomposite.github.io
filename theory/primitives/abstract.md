@@ -4,13 +4,18 @@ parent: Primitives
 grand_parent: Theory
 ---
 
-# Abstract
+# Abstract (A)
 
-## Overview
+## Profile
 
 ### Definition
 
-People with relatively frequent or disinhibited default-mode network activity and a high score on Openness to Experience.
+Frequent or disinhibited default-mode network activity.
 
-### Descriptive items:
-WIP, see Big 5 Openness
+### Correlations
+
+* High score on Openness to Experience
+
+
+
+
