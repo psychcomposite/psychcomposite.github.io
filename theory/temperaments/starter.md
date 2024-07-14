@@ -1,6 +1,6 @@
 ---
 title: Starter (DF)
-parent: Categories
+parent: Temperaments
 grand_parent: Theory
 ---
 

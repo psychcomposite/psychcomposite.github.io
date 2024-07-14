@@ -1,6 +1,6 @@
 ---
 title: Assertiveness (DU)
-parent: Categories
+parent: Temperaments
 grand_parent: Theory
 ---
 

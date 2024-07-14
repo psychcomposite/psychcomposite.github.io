@@ -1,6 +1,6 @@
 ---
 title: Enthusiasm (DY)
-parent: Categories
+parent: Temperaments
 grand_parent: Theory
 ---
 
