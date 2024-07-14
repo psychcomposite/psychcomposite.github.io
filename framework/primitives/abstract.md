@@ -1,7 +1,7 @@
 ---
 title: Abstract (A)
 parent: Primitives
-grand_parent: Theory
+grand_parent: Framework
 ---
 
 # Abstract (A)

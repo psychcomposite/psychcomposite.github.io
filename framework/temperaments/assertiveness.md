@@ -1,7 +1,7 @@
 ---
 title: Assertiveness (DU)
 parent: Temperaments
-grand_parent: Theory
+grand_parent: Framework
 ---
 
 # Assertiveness (DU)

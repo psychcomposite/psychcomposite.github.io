@@ -1,7 +1,7 @@
 ---
 title: Starter (DF)
 parent: Temperaments
-grand_parent: Theory
+grand_parent: Framework
 ---
 
 # Starter (DF)

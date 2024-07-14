@@ -1,7 +1,7 @@
 ---
 title: Caretaker (LYM)
 parent: Temperaments
-grand_parent: Theory
+grand_parent: Framework
 ---
 
 # Caretaker (LYM)

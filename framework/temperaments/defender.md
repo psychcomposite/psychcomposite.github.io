@@ -1,7 +1,7 @@
 ---
 title: Defender (YM)
 parent: Temperaments
-grand_parent: Theory
+grand_parent: Framework
 ---
 
 # Defender (YM)

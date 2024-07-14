@@ -1,7 +1,7 @@
 ---
 title: Neutral (N)
 parent: Primitives
-grand_parent: Theory
+grand_parent: Framework
 ---
 
 # Neutral (N)

@@ -1,7 +1,7 @@
 ---
 title: Moralizer (M)
 parent: Primitives
-grand_parent: Theory
+grand_parent: Framework
 ---
 
 # Moralizer (M)

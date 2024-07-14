@@ -1,7 +1,7 @@
 ---
 title: Pragmatist (P)
 parent: Primitives
-grand_parent: Theory
+grand_parent: Framework
 ---
 
 # Pragmatist (P)

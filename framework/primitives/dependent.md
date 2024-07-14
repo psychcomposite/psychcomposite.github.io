@@ -1,7 +1,7 @@
 ---
 title: Dependent (D)
 parent: Primitives
-grand_parent: Theory
+grand_parent: Framework
 ---
 
 # Dependent (D)

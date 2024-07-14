@@ -1,32 +1,45 @@
 ---
-title: Theory
+title: Framework
 has_children: true
 ---
 
-# Theory
+# Framework
 
 PsychComposite outlines 6 dichotomies, 12 primitives and 7 (as of now) temperaments.
 For each dichotomy where a clear preference towards a specific primitive exists, the corresponding primitive letter is included, and together they are aggregated to form a personality type, e.g. DSAI, LSI, YP. 
 Contrary to other personality systems we do not require that you have a clear preference in every dichotomy; DS is hence just as valid of a personality type as DSAIYP.
-When a preference in multiple dichotomies exists, the person/type is said to belong to a set of [Temperaments](/theory/temperaments).
-For example, a person with DFY preferences belongs to the temperaments [Starter (DF)](/theory/temperaments/starter) and [Warmth (DY)](/theory/temperaments/warmth).
+When a preference in multiple dichotomies exists, the person/type is said to belong to a set of [Temperaments](/framework/temperaments).
+For example, a person with DFY preferences belongs to the temperaments [Starter (DF)](/framework/temperaments/starter) and [Warmth (DY)](/framework/temperaments/warmth).
+
+## Primitives
+
+*Definition*: A primitive is the lowest level trait description available in this framework. Either there is a preference for the primitive or there is none.
+For the sake of generalizability a primitive can also be defined as a temperament with exactly one primitive.
+
+See the [Dichotomies](#Dichotomies) section below for an exhaustive list.
+
+## Temperaments
+
+*Definition*: A set of primitives with an attributed description.
+
+See [Temperaments](/framework/temperaments) for the exhaustive list.
 
 ## Dichotomies
 
 The dichotomies are defined as follows:
 
-1. [Dependent (D)](/theory/primitives/dependent) vs [Neutral (N)](/theory/primitives/neutral)
-2. [Stable (S)](/theory/primitives/stable) vs [Flexible (F)](/theory/primitives/flexible)
-3. [Abstract (A)](/theory/primitives/abstract) vs [Literal (L)](/theory/primitives/literal)
-4. [Imposing (I)](/theory/primitives/imposing) vs [Reconciling (R)](/theory/primitives/reconciling)
-5. [Yielding (Y)](/theory/primitives/yielding) vs [Unwavering (U)](/theory/primitives/unwavering)
-6. [Pragmatist (P)](/theory/primitives/pragmatist) vs [Moralizer (M)](/theory/primitives/moralizer)
+1. [Dependent (D)](/framework/primitives/dependent) vs [Neutral (N)](/framework/primitives/neutral)
+2. [Stable (S)](/framework/primitives/stable) vs [Flexible (F)](/framework/primitives/flexible)
+3. [Abstract (A)](/framework/primitives/abstract) vs [Literal (L)](/framework/primitives/literal)
+4. [Imposing (I)](/framework/primitives/imposing) vs [Reconciling (R)](/framework/primitives/reconciling)
+5. [Yielding (Y)](/framework/primitives/yielding) vs [Unwavering (U)](/framework/primitives/unwavering)
+6. [Pragmatist (P)](/framework/primitives/pragmatist) vs [Moralizer (M)](/framework/primitives/moralizer)
 
 ## Correlations
 
 ### MBTI type
 
-See the following exhaustive mapping table:
+See the following mapping table:
 
 | MBTI type | PsychComposite type |
 | :-------- | :------: |

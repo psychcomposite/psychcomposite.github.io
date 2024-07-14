@@ -1,7 +1,7 @@
 ---
 title: Unwavering (U)
 parent: Primitives
-grand_parent: Theory
+grand_parent: Framework
 ---
 
 # Unwavering (U)

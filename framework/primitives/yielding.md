@@ -1,7 +1,7 @@
 ---
 title: Yielding (Y)
 parent: Primitives
-grand_parent: Theory
+grand_parent: Framework
 ---
 
 # Yielding (Y)

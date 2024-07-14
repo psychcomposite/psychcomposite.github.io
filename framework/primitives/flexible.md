@@ -1,7 +1,7 @@
 ---
 title: Flexible (F)
 parent: Primitives
-grand_parent: Theory
+grand_parent: Framework
 ---
 
 # Flexible (F)

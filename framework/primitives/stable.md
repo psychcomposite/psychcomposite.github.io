@@ -1,7 +1,7 @@
 ---
 title: Stable (S)
 parent: Primitives
-grand_parent: Theory
+grand_parent: Framework
 ---
 
 # Stable (S)

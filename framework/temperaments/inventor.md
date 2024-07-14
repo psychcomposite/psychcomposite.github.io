@@ -1,7 +1,7 @@
 ---
 title: Inventor (ASP)
 parent: Temperaments
-grand_parent: Theory
+grand_parent: Framework
 ---
 
 # Inventor (ASP)

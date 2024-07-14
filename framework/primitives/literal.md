@@ -1,7 +1,7 @@
 ---
 title: Literal (L)
 parent: Primitives
-grand_parent: Theory
+grand_parent: Framework
 ---
 
 # Literal (L)

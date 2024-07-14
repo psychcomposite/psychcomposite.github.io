@@ -1,7 +1,7 @@
 ---
 title: Conscientious (DF)
 parent: Temperaments
-grand_parent: Theory
+grand_parent: Framework
 ---
 
 # Conscientious (SI)

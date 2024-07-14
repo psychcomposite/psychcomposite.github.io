@@ -1,7 +1,7 @@
 ---
 title: Reconciling (R)
 parent: Primitives
-grand_parent: Theory
+grand_parent: Framework
 ---
 
 # Reconciling (R)
