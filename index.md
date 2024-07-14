@@ -29,4 +29,4 @@ We do aim for falsifiability of the theory in the Karl Popper sense of the word.
 
 ## Feedback
 
-Please see our subreddit [/r/psychcomposite](reddit.com/r/psychcomposite).
+Please see our subreddit [/r/psychcomposite](www.reddit.com/r/psychcomposite).
