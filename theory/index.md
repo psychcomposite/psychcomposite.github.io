@@ -5,8 +5,11 @@ has_children: true
 
 # Theory
 
-The theory outlines 6 dichotomies and 12 primitives that in combination aims explain complicated behavioural tendencies.
-For example, a person with DF preferences are called the [Starter (DF)](/theory/categories/starter).
+PsychComposite outlines 6 dichotomies, 12 primitives and 3 (as of now) temperaments.
+For each dichotomy where a clear preference towards a specific primitive exists, the corresponding primitive letter is included, and together they are aggregated to form a personality type, e.g. DSAI, LSI, YP. 
+Contrary to other personality systems we do not require that you have a clear preference in every dichotomy; DS is hence just as valid of a personality type as DSAIYP.
+When a preference in multiple dichotomies exists, the person/type is said to belong to a set of [Temperaments](/theory/temperaments).
+For example, a person with DFU preferences belongs to the temperaments [Starter (DF)](/theory/temperaments/starter) and [Assertiveness (DU)](/theory/temperaments/assertiveness).
 
 ## Dichotomies
 
@@ -19,13 +22,9 @@ The dichotomies are defined as follows:
 5. [Yielding (Y)](/theory/primitives/yielding) vs [Unique (U)](/theory/primitives/unique)
 6. [Pragmatist (P)](/theory/primitives/pragmatist) vs [Moralizer (M)](/theory/primitives/moralizer)
 
-## Personality type
+## Correlations
 
-For each dichotomy where a clear preference exists, we append the corresponding letter, e.g. DSAI, LSI, YP.  
-
-Contrary to other personality systems we do not require that you have a clear preference in every dichotomy; DS is hence just as valid of a personality type as DSAIYP.
-
-## MBTI type correlation
+### MBTI type
 
 See the following exhaustive mapping table:
 
@@ -51,7 +50,7 @@ See the following exhaustive mapping table:
 The observant reader might notice that MBTI F-types have one more mapped primitive than MBTI T-types. MBTI FJ types have Yielding (Y) preferences while MBTI FP types have Unique (U) preferences.
 MBTI/JUNGIAN typology has in fact no equivalents for the IUM (imposing, unique, moralist) or RYM (reconciling, yielding, moralist) types due to assumptions (my feelings vs their feeling) about the extraverted and introverted feeling functions.
 
-## Jung's cognitive function correlation
+### Jung's cognitive functions
 
 Primitives can be mapped onto Jung's cognitive functions in the following way (note: not yet completely decided so may still be subject to changed):
 
