@@ -4,7 +4,7 @@ parent: Primitives
 grand_parent: Theory
 ---
 
-# Yielding (Y)
+# Unique (Y)
 
 ## Overview
 
