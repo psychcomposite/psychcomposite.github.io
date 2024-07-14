@@ -4,7 +4,7 @@ parent: Primitives
 grand_parent: Theory
 ---
 
-# Unwavering (Y)
+# Unwavering (U)
 
 ## Profile
 
