@@ -1,10 +1,10 @@
 ---
-title: Unique (U)
+title: Unwavering (U)
 parent: Primitives
 grand_parent: Theory
 ---
 
-# Unique (Y)
+# Unwavering (Y)
 
 ## Profile
 
