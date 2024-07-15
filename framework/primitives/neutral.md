@@ -21,6 +21,6 @@ grand_parent: Framework
 
 ## Theoretical observations
 
-## Characteristics
+### Characteristics
 
 indifferent to reward cues, uninterested in social approval, quiet, low-key, lower risk of addiction
