@@ -8,3 +8,4 @@ grand_parent: Framework
 
 People in this category may resonate with the persona of an inventor.
 
+*this page is incomplete*

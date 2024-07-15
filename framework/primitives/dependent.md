@@ -10,7 +10,7 @@ grand_parent: Framework
 
 ### Definition
 
-High motivation phenotype.
+High motivation phenotype and a relatively high degree of dependence on external rewards.
 
 ### Correlations
 

@@ -10,7 +10,7 @@ grand_parent: Framework
 
 ### Definition
 
-Low motivation phenotype.
+Low motivation phenotype and a relatively low degree of dependence on external rewards.
 
 ### Correlations
 
