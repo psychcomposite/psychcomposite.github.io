@@ -12,7 +12,7 @@ grand_parent: Framework
 
 ### Proxies
 
-* Relatively high prenatal testosterone
+* Relatively low prenatal testosterone
 
 ### Characteristics
 

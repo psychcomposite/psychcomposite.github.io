@@ -2,11 +2,11 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-title: "Brief"
+title: "About"
 layout: home
 ---
 
-# Brief
+# About
 
 **NOTE: This site and framework is a work in progress and may be subjected to change**
 
