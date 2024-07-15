@@ -23,7 +23,7 @@ grand_parent: Framework
 
 ### Characteristics
 
-attentive to social ques, feels connected, good self-esteem, more sensitive parenting methods, empathic towards 'in group', more flexible personal values/convictions, personal feelings are secondary or irrelevant, values are copied from group and/or society, unsure about own values without group influence, may be more likely to experience alexithymia
+attentive to social cues, feels connected, good self-esteem, more sensitive parenting methods, empathic towards 'in group', more flexible personal values/convictions, personal feelings are secondary or irrelevant, values are copied from group and/or society, unsure about own values without group influence, may be more likely to experience alexithymia
 
 ## Assessment
 

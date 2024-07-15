@@ -13,13 +13,14 @@ grand_parent: Framework
 ### Proxies
 
 * Low score on trait Reward Dependence
-* Low stratial dopaminergic activity and/or high baseline noradrenergic signalling
+* Low postsynaptic stratial D2 receptor count (e.g. DRD2 Taq1a rs1800497 A1-allele) OR sufficiently high baseline norepinephrine
 
 ### Partially correlated
 
-* Low score on trait Extraversion
+* Introversion
 
+## Theoretical observations
 
+## Characteristics
 
-
-
+indifferent to reward cues, uninterested in social approval, quiet, low-key, lower risk of addiction
