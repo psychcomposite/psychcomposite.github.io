@@ -6,16 +6,16 @@ grand_parent: Framework
 
 # Flexible (F)
 
-## Profile
+>Low top-down-control, leaning towards cognitive flexibility.
 
-### Definition
+## Linkages
 
-Low top-down-control, leaning towards cognitive flexibility.
-
-### Correlations
+### Proxies
 
 * High central COMT activity (e.g. rs4680 A-allele)
 * Low tonic dopamine and corresponding sensitivity to phasic dopamine spikes (prefrontal cortex)
+
+## Theoretical observations
 
 ### Characteristics
 

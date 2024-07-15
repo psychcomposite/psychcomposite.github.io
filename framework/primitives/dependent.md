@@ -6,14 +6,16 @@ grand_parent: Framework
 
 # Dependent (D)
 
-## Profile
+>High motivation phenotype and a relatively high degree of dependence on external rewards.
 
-### Definition
+## Linkages
 
-High motivation phenotype and a relatively high degree of dependence on external rewards.
+### Proxies
 
-### Correlations
-
-* High score on trait Extraversion
 * High score on trait Reward Dependence
 * High stratial dopaminergic activity and/or low baseline noradrenergic signalling
+
+### Partially correlated
+
+* High score on trait Extraversion
+

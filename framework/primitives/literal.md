@@ -6,14 +6,15 @@ grand_parent: Framework
 
 # Literal (L)
 
-## Profile
+>Infrequent or supressed default-mode network activity.
 
-### Definition
+## Linkages
 
-Infrequent or supressed default-mode network activity.
+### Proxies
 
-### Correlations
+* Low score on Big-5 Openness to Experience
 
-* Low score on Openness to Experience
+### Partially correlated
 
+* Low score on Need for Cognition
 

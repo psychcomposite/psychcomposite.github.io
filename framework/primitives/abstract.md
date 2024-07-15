@@ -6,16 +6,19 @@ grand_parent: Framework
 
 # Abstract (A)
 
-## Profile
+>Frequent or disinhibited default-mode network activity.
 
-### Definition
+## Linkages
 
-Frequent or disinhibited default-mode network activity.
-
-### Correlations
+### Proxies
 
 * High score on Openness to Experience
+
+### Partially correlated
+
 * High score on Need for Cognition
+
+## Theoretical observations
 
 ### Characteristics
 

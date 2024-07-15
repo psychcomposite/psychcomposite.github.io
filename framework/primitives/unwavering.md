@@ -6,15 +6,20 @@ grand_parent: Framework
 
 # Unwavering (U)
 
-## Profile
+>Tendency towards low activity of the oxytocin system.
 
-### Defintion
+## Linkages
 
-Tendency towards low oxytocinergic activity.
-
-### Correlations
+### Proxies
 
 * Low OXTR gene expression (e.g. rs53576 A-allele)
+
+### Partially correlated
+
+* Introversion
+* Disagreeableness
+
+## Theoretical observations
 
 ### Characteristics
 

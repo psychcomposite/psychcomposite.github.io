@@ -6,15 +6,20 @@ grand_parent: Framework
 
 # Neutral (N)
 
-## Profile
+>Low motivation phenotype and a relatively low degree of dependence on external rewards.
 
-### Definition
+## Linkages
 
-Low motivation phenotype and a relatively low degree of dependence on external rewards.
+### Proxies
 
-### Correlations
-
-* Low score on trait Extraversion
 * Low score on trait Reward Dependence
 * Low stratial dopaminergic activity and/or high baseline noradrenergic signalling
+
+### Partially correlated
+
+* Low score on trait Extraversion
+
+
+
+
 

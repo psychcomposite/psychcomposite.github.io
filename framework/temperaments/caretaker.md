@@ -14,4 +14,4 @@ People in this category may resonate with the persona of a caretaker.
 | :------------| :--------- |
 | Literal (L)  | Less preoccupied with abstract ideals  |
 | Yielding (Y) | Facilitates bonding  |
-| Moralist (M) | Interest in people  |
+| Moralizer (M) | Interest in people  |

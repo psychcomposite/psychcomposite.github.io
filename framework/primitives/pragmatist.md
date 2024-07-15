@@ -6,16 +6,16 @@ grand_parent: Framework
 
 # Pragmatist (P)
 
-## Profile
+>Tendency to view the world through cause-and-effect relationships as opposed to value judgements.
 
-### Definition
+## Linkages
 
-Tendency to view the world through cause-and-effect relationships as opposed to value judgements.
+### Proxies
 
-### Correlations
+* Relatively high prenatal testosterone
 
-* Comparitively high prenatal testosterone
+## Theoretical observations
 
 ### Characteristics
 
-more interested in things than people, systematizer, may have studied engineering of another technical professions, not inclined to consider a subject dry, does usually think that people ought to behave certain ways, high mach behaviour, non-judgemental, impartial
+more interested in things than people, systematizer, may have studied engineering or another technical professions, not inclined to consider a subject dry, does usually think that people ought to behave certain ways, high mach behaviour, non-judgemental, impartial

@@ -6,15 +6,13 @@ grand_parent: Framework
 
 # Moralizer (M)
 
-## Profile
+>Tendency to view the world in terms of value judgements as opposed to cause-and-effect.
 
-### Definition
+## Linkages
 
-Tendency to view the world in terms of value judgements as opposed to cause-and-effect.
+### Proxies
 
-### Correlations
-
-* Comparitively low prenatal testosterone
+* Relatively high prenatal testosterone
 
 ### Characteristics
 

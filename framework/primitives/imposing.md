@@ -6,13 +6,14 @@ grand_parent: Framework
 
 # Imposing (I)
 
-## Profile
+>Relatively high need to enforce order/structure in the outside world.
 
-### Definition
+## Linkages
 
-Relatively high need to enforce order/structure in the outside world.
+### Proxies
 
-### Correlations
+* Low score on Ambiguity Tolerance
 
-* Low score on ambiguity tolerance
-* High score on Orderliness subfacet of Big 5 trait Conscientousnes
+### Partially correlated
+
+* High score on Orderliness subfacet of Big-5 trait Conscientousnes
