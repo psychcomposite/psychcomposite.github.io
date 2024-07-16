@@ -31,8 +31,8 @@ The exhaustive list of primitives are:
 | [Reconciling (R)](/framework/primitives/reconciling) | Relatively low need to enforce order/structure in the outside world. |
 | [Yielding (Y)](/framework/primitives/yielding)       | Tendency towards high activity of the oxytocin system. |
 | [Unwavering (U)](/framework/primitives/unwavering)   | Tendency towards low activity of the oxytocin system. |
-| [Pragmatist (P)](/framework/primitives/pragmatist)   | Tendency to view the world through cause-and-effect relationships as opposed to value judgements. |
-| [Moralizer (M)](/framework/primitives/moralizer)     | Tendency to view the world in terms of value judgements as opposed to cause-and-effect. |
+| [Pragmatist (P)](/framework/primitives/pragmatist)   | Tendency to adhere to cause-and-effect relationships as opposed to principled value judgements in thought and decision making. |
+| [Moralizer (M)](/framework/primitives/moralizer)     | Tendency to adhere to principled value judgements as opposed to cause-and-effect relationships in thought and decision making. |
 
 ## Temperaments
 
