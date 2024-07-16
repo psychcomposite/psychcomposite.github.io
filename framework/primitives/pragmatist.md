@@ -18,4 +18,4 @@ grand_parent: Framework
 
 ### Characteristics
 
-more interested in things than people, systematizer, may have studied engineering or another technical professions, not inclined to consider a subject dry, does usually think that people ought to behave certain ways, high mach behaviour, non-judgemental, impartial
+more interested in things than people, systematizer, may have studied engineering or another technical professions, not inclined to consider a subject dry, does not usually think that people ought to behave certain ways, high mach behaviour, non-judgemental, impartial

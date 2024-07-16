@@ -14,6 +14,8 @@ grand_parent: Framework
 
 * Relatively low prenatal testosterone
 
+## Theoretical observations
+
 ### Characteristics
 
-more interested in people than things, humanist, deep personal empathy, maintains an internal belief system, intested in people-oriented professions, inclined to consider a subject dry if not connected to people and not very practical, inclined to think people ought to behave certain ways, low mach behaviour, judgemental, has "icks"
+more interested in people than things, humanist, deep personal empathy, maintains an internal belief system, intested in people-oriented professions, inclined to consider a subject dry if not pragmatic or related to people, inclined to think people ought to behave certain ways, low mach behaviour, judgemental, has "icks"
