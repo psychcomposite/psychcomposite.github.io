@@ -14,7 +14,7 @@ grand_parent: Framework
 
 * High score on Openness to Experience
 
-### Partially correlated
+### Partial overlap
 
 * High score on Need for Cognition
 

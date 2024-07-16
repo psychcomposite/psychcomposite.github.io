@@ -6,16 +6,18 @@ grand_parent: Framework
 
 # Moralizer (M)
 
->Tendency to view the world in terms of value judgements as opposed to cause-and-effect.
+>Tendency to adhere to principled value judgements as opposed to cause-and-effect relationships in thought and decision making.
 
 ## Linkages
 
-### Proxies
+### Partial overlap
 
 * Relatively low prenatal testosterone
+* Low score on MACH-IV
+* Type E (Empathising > Systematizing) in Simon Baron-Cohen E-S theory
 
 ## Theoretical observations
 
 ### Characteristics
 
-more interested in people than things, humanist, deep personal empathy, maintains an internal belief system, intested in people-oriented professions, inclined to consider a subject dry if not pragmatic or related to people, inclined to think people ought to behave certain ways, low mach behaviour, judgemental, has "icks"
+more interested in people than things, principled, humanist, deep concern for other people, maintains an internal belief system, has "icks", interested in people-oriented professions, inclined to consider a subject dry if not pragmatic or related to people, inclined to think people ought to behave certain ways, judgemental

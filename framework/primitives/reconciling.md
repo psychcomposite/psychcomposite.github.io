@@ -14,6 +14,6 @@ grand_parent: Framework
 
 * High score on ambiguity tolerance
 
-### Partially correlated
+### Partial overlap
 
 * Low score on Orderliness subfacet of Big-5 trait Conscientousnes

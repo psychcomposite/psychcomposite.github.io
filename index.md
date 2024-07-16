@@ -35,7 +35,7 @@ N/A
 
 Note that we do NOT claim that these statements are scientific or factual, although the aim is to make the framework as grounded / compatible with reality as possible.
 For this reason it is not accurate to say that the framework is pseudoscientific.
-We do aim for falsifiability of the framework in the Karl Popper sense of the word.
+We do aim for some degree of falsifiability in the Karl Popper sense of the word.
 
 ## Contact & feedback
 

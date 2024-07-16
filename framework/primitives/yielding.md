@@ -14,7 +14,7 @@ grand_parent: Framework
 
 * High OXTR gene expression (e.g. rs53576 G-allele)
 
-### Partially correlated
+### Partial overlap
 
 * Extraversion
 * Agreeableness

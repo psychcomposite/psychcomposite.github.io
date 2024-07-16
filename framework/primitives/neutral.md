@@ -15,7 +15,7 @@ grand_parent: Framework
 * Low score on trait Reward Dependence
 * Low postsynaptic stratial D2 receptor count (e.g. DRD2 Taq1a rs1800497 A1-allele) OR sufficiently high baseline norepinephrine
 
-### Partially correlated
+### Partial overlap
 
 * Introversion
 

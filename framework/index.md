@@ -36,7 +36,7 @@ The exhaustive list of primitives are:
 
 ## Temperaments
 
-*Definition*: A set of primitives with an attributed description.
+*Definition*: A set of primitive preferences and an attributed description about what these preferences in combination might entail.
 
 See [Temperaments](/framework/temperaments) for the exhaustive list.
 

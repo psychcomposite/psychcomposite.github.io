@@ -14,7 +14,7 @@ grand_parent: Framework
 
 * Low OXTR gene expression (e.g. rs53576 A-allele)
 
-### Partially correlated
+### Partial overlap
 
 * Introversion
 * Disagreeableness
