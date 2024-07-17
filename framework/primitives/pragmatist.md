@@ -6,7 +6,7 @@ grand_parent: Framework
 
 # Pragmatist (P)
 
->Tendency to adhere to cause-and-effect relationships as opposed to principled value judgements in thought and decision making.
+>Tendency to adhere to optimizing for a preferred (utilitarian) outcome using contextual factors, as opposed to principled value judgments, in thought and decision-making.
 
 ## Linkages
 
@@ -20,4 +20,4 @@ grand_parent: Framework
 
 ### Characteristics
 
-more interested in things than people, unprincipled, low ideological commitment, may have studied engineering or another technical professions, not inclined to consider a subject dry, does not usually think that people ought to behave certain ways, non-judgemental, impartial
+more interested in things than people, prefers central to persuation, unprincipled, low ideological commitment, may have studied engineering or another technical professions, not inclined to consider a subject dry, does not usually think that people ought to behave certain ways, non-judgemental, impartial

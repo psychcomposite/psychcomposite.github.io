@@ -30,6 +30,6 @@ responsive to reward cues, concerned with social approval,  enthusiastic, assert
 | Score | Questionnaire item |
 | :-----| :--------- |
 | +1    | I am highly motivated  | 
-| +1    | I seek social support or approval from others |
+| +1    | I seek approval from others |
 | +1    | You could describe me as a bon-vivant |
 | -1    | Many would describe me as quiet (reversed) |

@@ -6,7 +6,7 @@
         fieldset {
             background-color: white;
             border: none;
-            border-left: solid transparent 0px;
+            border-left: solid transparent 8px;
             border-top-left-radius: 5px;
             border-bottom-left-radius: 5px;
             transition: border-left-color 200ms;
@@ -18,7 +18,6 @@
         fieldset:hover
         {
             border-left-color: blue;
-            border-left-width: 8px;
             background-color: rgb(240, 240, 251);
             opacity: 1.0;
         }
@@ -36,7 +35,6 @@
         }
         .statement
         {
-            vertical-align: top;
             width: 100%;
             display: flex;
             justify-content: center;
@@ -44,6 +42,14 @@
         .statementLabel
         {
             font-size: 18px;
+            overflow: scroll;
+            margin-bottom: 10px;
+            text-align: center;
+            display: block; /* or inline-block if needed */
+            width: 100%; /* Full width of the parent container */
+            overflow: hidden; /* Hide overflow */
+            word-wrap: break-word; /* Ensure long words break */
+            white-space: normal; /* Ensure normal white space handling */
         }
         input[type="submit"]
         {
@@ -63,12 +69,15 @@
             width: 100%;
             display: flex;
             justify-content: center;
+            align-items: center;
         }
         .answerLabel
         {
-            font-size: 32px;
+            font-size: 22px;
             margin-left: 20px;
             margin-right: 20px;
+            vertical-align: middle;
+            line-height: 22px;
         }
         .answerOption{
             -webkit-appearance: none;
@@ -77,7 +86,8 @@
             border: 3px solid;
             margin-left: 20px;
             margin-right: 20px;
-            margin-top: 10px;
+            vertical-align:middle;
+            line-height: 22px;
             background-color: white;
             transition: background-color 200ms;
         }
@@ -100,6 +110,10 @@
             border-color: green;    
         }
         .yesPref:checked
+        {
+            background-color: green;
+        }
+        .yesPref:checked + .yesPref:hover
         {
             background-color: green;
         }
@@ -127,6 +141,10 @@
         {
             border-color: blueviolet;
         }
+        .noPref:checked + .noPref:hover
+        {
+            border-color: blueviolet;
+        }
         .noPref:checked
         {
             background-color: blueviolet;
@@ -135,11 +153,15 @@
         {
             background-color: rgb(227, 198, 254);
         }
-        #resultsSection
+        .resultsSection
         {
             width: 100%;
-            display: flex;
+            height: 600px;
+        }
+        #topResultSection
+        {
             border-top: black 1px;
+            display: flex;
         }
         .resultsPane
         {
@@ -172,6 +194,22 @@
         .right{
             flex-grow: 100;
         }
+        .primitiveCol
+        {
+            width: 50px;
+            display: flex;
+            flex-direction: column;
+        }
+        .primitiveStaple
+        {
+            width: 100%;
+            height: 1px;
+            background-color: red;
+            float: left;
+            margin-right: 50px;
+            border: 4px white;
+            border-radius: 4px;;
+        }
     </style>
 
         <form id="type_ind_form" method="POST" onsubmit="return handleSubmit(this);">
@@ -184,7 +222,7 @@
 
         <br>
 
-        <div id="resultsSection">
+        <div id="topResultSection" class="resultsSection">
             <div class="resultsPane left gray">
                 <label class="resultsHeader">Your type:</label>
                 <label id="typeResultLabel">N/A</label>
@@ -194,15 +232,49 @@
                 <label id="temperamentResultLabel">N/A</label>
             </div>
         </div>
+
+        <br>
+
+        <div class="resultsSection">
+            <div id="resultByPrimitive" class="resultsPane right largeResultsPane gray">
+
+            </div>
+        </div>
     <script>
         const items = [
+            ["I seek approval from others", 'D', false],
+            ["You could describe me as a bon-vivant", 'D', false],
+
             ["I have a hard time letting go of things", 'S', false],
-            ["I often nod my head so people know I am listening", 'Y', false],
             ["Some stress is just what I need to perform on exams", 'S', true],
-            ["I seek social support or approval from others", 'D', false],
+            ["I derive a lot of pleasure from small things", 'S', false],
+
+            ["I enjoy rough sports", 'F', false],
+            ["I find it easy to stop what I am doing", 'F', false],
+
+            ["I enjoy thinking for it's own sake", 'A', false],
+            ["My brain keeps me entertained even without external stimulation", 'A', false],
+            ["I prefer theoretical subjects to everyday concerns", 'A', false],
+
+            ["I don't appreciate abstract art", 'L', false],
+            ["I am creative", 'L', true],
+            ["I don't consider impractical ideas for their own sake", 'L', false],
+
+            ["I cannot stand disorder", 'I', false],
+            ["I am a yes/no kind of person, no entertaining middle-groud ", 'I', false],
+
+            ["I leave things messy when it is practical", 'R', false],
+
+            ["I often nod my head so people know I am listening", 'Y', false],
+            ["I don't feel other people's emotions", 'Y', true],
             ["I feel compelled to use pleasing body language", 'Y', false],
+
+            ["I smile when I want to, not out of social obligation", 'U', false],
+            
+            ["I don't fight for causes", 'P', false],
+            ["I omit details that could affect me negatively", 'P', false],
+            
             ["I can appear inflexible with my values", 'M', false],
-            ["I don't feel other people's emotions", 'Y', true]
         ];
 
         let shuffled_items = items
@@ -242,7 +314,7 @@
             let lblYes = document.createElement("label");
             lblYes.classList.add("answerLabel");
             lblYes.classList.add("yesLabel");
-            lblYes.innerHTML = "Yes";
+            lblYes.innerHTML = "YES";
             divAnswer.appendChild(lblYes);
 
             let rbYes = document.createElement("input");
@@ -275,7 +347,7 @@
             let lblNo = document.createElement("label");
             lblNo.classList.add("answerLabel");
             lblNo.classList.add("noLabel");
-            lblNo.innerHTML = "No";
+            lblNo.innerHTML = "NO";
             divAnswer.appendChild(lblNo);
         });
 
@@ -310,7 +382,7 @@
                 }
             }
 
-            if (answerCount != items.length)
+            if (false && answerCount != items.length)
             {
                 alert('All questions are not answered (' + answerCount + " != " + items.length + ")");
                 return;
@@ -353,8 +425,6 @@
                 }
             } 
 
-            console.log("Personality type = " + personality_type);
-
             let resultLabel = document.getElementById("typeResultLabel");
             resultLabel.innerHTML = personality_type;
 
@@ -380,6 +450,25 @@
                 }
             }
 
+            let resultByPrimitive = document.getElementById("resultByPrimitive");
+            
+            for (let prim of preferences.keys())
+            {
+                let primCol = document.createElement("div");
+                primCol.classList.add("primitiveCol");
+                resultByPrimitive.appendChild(primCol);
+
+                let staple = document.createElement("div");
+                staple.classList.add("primitiveStaple");
+                staple.style.height = (Math.max(0, preferences.get(prim)) * 50) + "px";
+                primCol.appendChild(staple);
+
+                let label = document.createElement("label");
+                label.classList.add("answerLabel");
+                label.innerHTML = prim;
+                primCol.appendChild(label);
+            }
+            
             return false;
         }
 

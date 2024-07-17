@@ -4,13 +4,13 @@ parent: Temperaments
 grand_parent: Framework
 ---
 
-# Conscientious (SI)
+# Diligence (SI)
 
-People in this category may score high on Big-5 trait conscientiousness.
+People in this temperament may score high on trait Diligence.
 
 ## Why?
 
 | Primitive    | Motivation |
 | :------------| :--------- |
-| Stable (S)   | Cogntive stability is probably needed for thoroughness and dilligence (needs citation!) |
-| Imposing (I) | Imposing order in the environment is what characterizes the orderliness subfacet of conscientousness  |
+| Stable (S)   | Slow COMT-enzyme phentotype is associated with paying more attention after making an error |
+| Imposing (I) | High need to impose order which is needed for diligence  |

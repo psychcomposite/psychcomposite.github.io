@@ -6,7 +6,7 @@ grand_parent: Framework
 
 # Moralizer (M)
 
->Tendency to adhere to principled value judgements as opposed to cause-and-effect relationships in thought and decision making.
+>Tendency to adhere to principled value judgments, as opposed to optimizing for a preferred (utilitarian) outcome using contextual factors, in thought and decision-making.
 
 ## Linkages
 
@@ -20,7 +20,7 @@ grand_parent: Framework
 
 ### Characteristics
 
-more interested in people than things, principled, high ideological commitment,humanist, deep concern for other people, maintains an internal belief system, has "icks", interested in people-oriented professions, inclined to consider a subject dry if not pragmatic or related to people, inclined to think people ought to behave certain ways, judgemental
+more interested in people than things, prefers peripheral to persuation, principled, high ideological commitment,humanist, deep concern for other people, maintains an internal belief system, has "icks", interested in people-oriented professions, inclined to consider a subject dry if not pragmatic or related to people, inclined to think people ought to behave certain ways, judgemental
 
 ## Assessment
 
