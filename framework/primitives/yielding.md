@@ -29,8 +29,7 @@ attentive to social cues, feels connected, good self-esteem, more sensitive pare
 
 | Score | Questionnaire item |
 | :-----| :--------- |
-| +1    | My body language is friendly | 
+| +1    | I often nod my head so people know I am listening | 
 | +1    | I feel compelled to use pleasing body language | 
 | +1    | I bond with people effortlessly |
-| -1    | I can appear inflexible with my values (reversed) |
 | -1    | I don't feel other people's emotions (reversed) |

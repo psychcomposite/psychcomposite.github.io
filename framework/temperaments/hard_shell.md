@@ -1,10 +1,10 @@
 ---
-title: Hard outside, soft inside (UM)
+title: Hard Shell (UM)
 parent: Temperaments
 grand_parent: Framework
 ---
 
-# Hard outside, soft inside (UM)
+# Hard Shell (UM)
 
 People in this category may resonate with the following statement:
 
