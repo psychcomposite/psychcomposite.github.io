@@ -1,0 +1,387 @@
+<html>
+    <style>
+        form {
+            width: 100%;
+        }
+        fieldset {
+            background-color: white;
+            border: none;
+            border-left: solid transparent 0px;
+            border-top-left-radius: 5px;
+            border-bottom-left-radius: 5px;
+            transition: border-left-color 200ms;
+            transition: border-width 200ms;
+            transition: background-color 200ms;
+            transition: opacity 200ms;
+            margin-bottom: 1px;
+        }
+        fieldset:hover
+        {
+            border-left-color: blue;
+            border-left-width: 8px;
+            background-color: rgb(240, 240, 251);
+            opacity: 1.0;
+        }
+        fieldset:not(:hover)
+        {
+            opacity: 0.6;
+        }
+        .white
+        {
+            background-color: white;
+        }
+        .gray
+        {
+            background-color: rgb(247, 247, 247);
+        }
+        .statement
+        {
+            vertical-align: top;
+            width: 100%;
+            display: flex;
+            justify-content: center;
+        }
+        .statementLabel
+        {
+            font-size: 18px;
+        }
+        input[type="submit"]
+        {
+            transition: background-color 200ms;
+            background-color: rgb(248, 245, 245);
+            border: none;
+            width: 100px;
+            height: 50px;
+        }
+        input[type="submit"]:hover
+        {
+            background-color: rgb(223, 223, 223);
+        }
+        .answer
+        {
+            vertical-align: bottom;
+            width: 100%;
+            display: flex;
+            justify-content: center;
+        }
+        .answerLabel
+        {
+            font-size: 32px;
+            margin-left: 20px;
+            margin-right: 20px;
+        }
+        .answerOption{
+            -webkit-appearance: none;
+            appearance: none;
+            border-radius: 50px 50px;
+            border: 3px solid;
+            margin-left: 20px;
+            margin-right: 20px;
+            margin-top: 10px;
+            background-color: white;
+            transition: background-color 200ms;
+        }
+        .strongPref
+        {
+            height: 30px;
+            width: 30px;
+        }
+        .weakPref
+        {
+            height: 25px;
+            width: 25px;
+        }
+        .yesLabel
+        {
+            color:green;
+        }
+        .yesPref
+        {
+            border-color: green;    
+        }
+        .yesPref:checked
+        {
+            background-color: green;
+        }
+        .yesPref:hover
+        {
+            background-color: rgb(122, 172, 122);
+        }
+        .neutralPref
+        {
+            border-color: black;
+        }
+        .neutralPref:checked
+        {
+            background-color: black;
+        }
+        .neutralPref:hover
+        {
+            background-color: rgb(65, 65, 65);
+        }
+        .noLabel
+        {
+            color:blueviolet;
+        }
+        .noPref
+        {
+            border-color: blueviolet;
+        }
+        .noPref:checked
+        {
+            background-color: blueviolet;
+        }
+        .noPref:hover
+        {
+            background-color: rgb(227, 198, 254);
+        }
+        #resultsSection
+        {
+            width: 100%;
+            display: flex;
+            border-top: black 1px;
+        }
+        .resultsPane
+        {
+            width: 30%;
+            height: 100px;
+            border-top: 1px black;
+            margin-right: 20px;
+            display: flex;
+            flex-direction: column;
+            padding: 10px 10px 10px 10px;
+        }
+        .largeResultsPane
+        {
+            overflow: hidden;
+        }
+        .resultsHeader
+        {
+            font-size: 18px;
+            font-weight: bold;
+        }
+        #typeResultLabel
+        {
+            font-size: 24px;
+            float: right;
+            vertical-align: bottom;
+        }
+        .left{
+            float: left;
+        }
+        .right{
+            flex-grow: 100;
+        }
+    </style>
+
+        <form id="type_ind_form" method="POST" onsubmit="return handleSubmit(this);">
+            <br>
+            <input type="submit" value="Submit">
+        </form> 
+        <br>
+        
+        <label class="resultsHeader">Results:</label>
+
+        <br>
+
+        <div id="resultsSection">
+            <div class="resultsPane left gray">
+                <label class="resultsHeader">Your type:</label>
+                <label id="typeResultLabel">N/A</label>
+            </div>
+            <div class="resultsPane right largeResultsPane gray">
+                <label class="resultsHeader">Temperaments</label>
+                <label id="temperamentResultLabel">N/A</label>
+            </div>
+        </div>
+    <script>
+        const items = [
+            ["I have a hard time letting go of things", 'S', false],
+            ["I often nod my head so people know I am listening", 'Y', false],
+            ["Some stress is just what I need to perform on exams", 'S', true],
+            ["I seek social support or approval from others", 'D', false],
+            ["I feel compelled to use pleasing body language", 'Y', false],
+            ["I can appear inflexible with my values", 'M', false],
+            ["I don't feel other people's emotions", 'Y', true]
+        ];
+
+        let shuffled_items = items
+            .map(value => ({ value, sort: Math.random() }))
+            .sort((a, b) => a.sort - b.sort)
+            .map(({ value }) => value);
+
+        const temperaments = [
+            ["DY", "Warmth", "warmth"],
+            ["UM", "Hard Shell", "hard_shell"]
+        ];
+
+        let form = document.getElementById("type_ind_form");
+
+        let seqNum = 0;
+
+        shuffled_items.forEach(([item, primitive, reversed]) => {
+            
+            let fs = document.createElement("fieldset"); 
+            fs.setAttribute("name", primitive + "-" + seqNum);
+            fs.classList.add(seqNum++ % 2 == 0 ? "gray" : "white");
+            form.prepend(fs);
+
+            let divStatement = document.createElement("div");
+            divStatement.classList.add("statement");
+            fs.appendChild(divStatement);
+
+            let lblStatement = document.createElement("label");
+            lblStatement.classList.add("statementLabel");
+            lblStatement.innerHTML = item;
+            divStatement.appendChild(lblStatement);
+
+            let divAnswer = document.createElement("div");
+            divAnswer.classList.add("answer");
+            fs.appendChild(divAnswer);
+
+            let lblYes = document.createElement("label");
+            lblYes.classList.add("answerLabel");
+            lblYes.classList.add("yesLabel");
+            lblYes.innerHTML = "Yes";
+            divAnswer.appendChild(lblYes);
+
+            let rbYes = document.createElement("input");
+            rbYes.classList.add("answerOption");
+            rbYes.classList.add("strongPref");
+            rbYes.classList.add("yesPref");
+            rbYes.setAttribute("name", "Q" + seqNum);
+            rbYes.setAttribute("type", "radio");
+            rbYes.value = "" + primitive + (reversed ? "!" : "");
+            divAnswer.appendChild(rbYes);
+
+            let rbNeutral = document.createElement("input");
+            rbNeutral.classList.add("answerOption");
+            rbNeutral.classList.add("weakPref");
+            rbNeutral.classList.add("neutralPref");
+            rbNeutral.setAttribute("name", "Q" + seqNum);
+            rbNeutral.setAttribute("type", "radio");
+            rbNeutral.value = "";
+            divAnswer.appendChild(rbNeutral);
+
+            let rbNo = document.createElement("input");
+            rbNo.classList.add("answerOption");
+            rbNo.classList.add("strongPref");
+            rbNo.classList.add("noPref");
+            rbNo.setAttribute("name", "Q" + seqNum);
+            rbNo.setAttribute("type", "radio");
+            rbNo.value = "" + primitive + (!reversed ? "!" : "");
+            divAnswer.appendChild(rbNo);
+
+            let lblNo = document.createElement("label");
+            lblNo.classList.add("answerLabel");
+            lblNo.classList.add("noLabel");
+            lblNo.innerHTML = "No";
+            divAnswer.appendChild(lblNo);
+        });
+
+        function handleSubmit(formData)
+        {
+            event.preventDefault();
+
+            const preferences = new Map([ 
+                [ 'D', 0 ],
+                [ 'N', 0 ],
+                [ 'S', 0 ],
+                [ 'F', 0 ],
+                [ 'A', 0 ],
+                [ 'L', 0 ],
+                [ 'I', 0 ],
+                [ 'R', 0 ],
+                [ 'Y', 0 ],
+                [ 'U', 0 ],
+                [ 'P', 0 ],
+                [ 'M', 0 ]
+            ]);
+
+            let answerCount = 0;
+            let indications = [];
+
+            for (let element of formData.elements) 
+            {
+                if (element.name && element.checked)
+                {
+                    indications.push(element.value);
+                    answerCount++;
+                }
+            }
+
+            if (answerCount != items.length)
+            {
+                alert('All questions are not answered (' + answerCount + " != " + items.length + ")");
+                return;
+            }
+
+            for(let ind of indications)
+            {
+                if(ind.length == 0)
+                {
+                    continue;
+                }
+
+                let primitive = ind[0];
+                let reversed = ind.length == 2 && ind[1] == '!';
+                let diff = reversed ? -1 : 1;
+
+                preferences.set(primitive, preferences.get(primitive) + diff);
+            }
+
+            let personality_type = "";
+
+            let primitives = [
+                ['D', 'N'],
+                ['S', 'F'],
+                ['A', 'L'],
+                ['I', 'R'],
+                ['Y', 'U'],
+                ['P', 'M'],
+            ];
+
+            for (let [p1, p2] of primitives)
+            {
+                if (preferences.get(p1) > preferences.get(p2))
+                {
+                    personality_type += p1;
+                }
+                else if (preferences.get(p2) > preferences.get(p1))
+                {
+                    personality_type += p2;
+                }
+            } 
+
+            console.log("Personality type = " + personality_type);
+
+            let resultLabel = document.getElementById("typeResultLabel");
+            resultLabel.innerHTML = personality_type;
+
+            let resultTemperaments = document.getElementById("temperamentResultLabel");
+            resultTemperaments.innerHTML = "";
+
+            for(let [letters, desc, link] of temperaments)
+            {
+                let ok = true;
+                for (let l of letters)
+                {
+                    if(personality_type.indexOf(l) == -1)
+                    {
+                        ok = false;
+                        break;
+                    }
+                }
+
+                if(ok)
+                {
+                    let inner = desc + " (" + letters + ")";
+                    resultTemperaments.innerHTML += "<a href=\"/framework/temperaments/" + link + "\">" + inner +"</a>" + ",";
+                }
+            }
+
+            return false;
+        }
+
+    </script>
+</html>
