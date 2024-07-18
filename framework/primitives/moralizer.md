@@ -6,18 +6,18 @@ grand_parent: Framework
 
 # Moralizer (M)
 
->Tendency to rely on (principled) value judgments as inherent justification, rather than adhering to contextual cues that lead to a preferred (utilitarian) outcome, in thought and decision-making.
+
+>Tendency to rely on principled value judgments that deemphasize context, rather than adhering to justified contextual cues that optimize for a valued utilitarian outcome, in thought and decision-making.
 
 ## Linkages
+
+### Proxies
+
+* High activity in F8 "Grounded Believer" (Dario Nardi's Neuroscience of Personality)
 
 ### Partial overlap
 
 * Low score on MACH-IV
-
-### Possible overlap
-
-* Relatively low prenatal testosterone
-* Type E (Empathising > Systematizing) in Simon Baron-Cohen E-S theory
 
 ## Theoretical observations
 
