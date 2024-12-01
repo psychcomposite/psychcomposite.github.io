@@ -1,7 +1,7 @@
 ---
 title: Interpersonal temperaments
 has_children: true
-parent: Framework
+parent: Temperaments
 ---
 
 # Interpersonal temperaments
