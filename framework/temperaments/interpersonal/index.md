@@ -2,6 +2,7 @@
 title: Interpersonal
 has_children: true
 parent: Temperaments
+grand_parent: Framework
 ---
 
 # Interpersonal temperaments
