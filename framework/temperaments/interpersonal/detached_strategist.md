@@ -1,7 +1,7 @@
 ---
 title: Detached Strategist (UP)
-parent: Temperaments
-grand_parent: Framework
+parent: Interpersonal
+grand_parent: Temperaments
 ---
 
 # Detached Strategist (UP)

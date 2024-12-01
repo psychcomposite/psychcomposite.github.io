@@ -1,7 +1,7 @@
 ---
 title: Empathetic Connector (YM)
-parent: Temperaments
-grand_parent: Framework
+parent: Interpersonal
+grand_parent: Temperaments
 ---
 
 # Empathetic Connector (YM)

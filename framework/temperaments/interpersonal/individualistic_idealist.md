@@ -1,7 +1,7 @@
 ---
 title: Individualistic Idealist (UM)
-parent: Temperaments
-grand_parent: Framework
+parent: Interpersonal
+grand_parent: Temperaments
 ---
 
 # Individualistic Idealist (UM)

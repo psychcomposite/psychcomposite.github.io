@@ -1,7 +1,7 @@
 ---
 title: Calculating Mediator (YP)
-parent: Temperaments
-grand_parent: Framework
+parent: Interpersonal
+grand_parent: Temperaments
 ---
 
 # Calculating Mediator (YP)

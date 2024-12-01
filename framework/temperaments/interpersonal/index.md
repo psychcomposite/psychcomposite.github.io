@@ -1,5 +1,5 @@
 ---
-title: Interpersonal temperaments
+title: Interpersonal
 has_children: true
 parent: Temperaments
 ---
