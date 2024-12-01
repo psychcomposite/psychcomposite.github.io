@@ -6,7 +6,10 @@ grand_parent: Framework
 
 # Stable (S)
 
->High top-down-control, leaning towards cognitive stability.
+>High cognitive stability in the prefrontal cortex, leading to a propensity for uninterrupted mental representations, and a high threshold for noise to pass as signal under normal circumstances.
+
+>Prefrontal cortical influence is marked by cognitive stability, resulting in a propensity for robust mental representations that resist noise yet with increased tendency for inappropriate rigidity in response to external signals that drive adaptive change, under normal circumstances.
+    
 
 ## Linkages
 

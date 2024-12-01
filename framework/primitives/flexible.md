@@ -6,7 +6,7 @@ grand_parent: Framework
 
 # Flexible (F)
 
->Low top-down-control, leaning towards cognitive flexibility.
+>Prefrontal cortical influence marked by cognitive flexibility, leading to plastic mental representations that are readily adapted or interrupted, and a low threshold for external input to pass as signal instead of noise, under normal circumstances.
 
 ## Linkages
 

@@ -1,5 +1,5 @@
 ---
-title: Conscientious (SI)
+title: Diligence (SI)
 parent: Temperaments
 grand_parent: Framework
 ---
