@@ -1,10 +1,10 @@
 ---
-title: Idealistic Strategist (UP)
+title: Individualistic Strategist (UP)
 parent: Interpersonal
 grand_parent: Temperaments
 ---
 
-# Idealistic Strategist (UP)
+# Individualistic Strategist (UP)
 
 >Logical pragmatism without emotional warmth. DLPFC \> vmPFC with low oxytocin activity.
 
