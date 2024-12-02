@@ -6,22 +6,22 @@ grand_parent: Framework
 
 # Abstract (A)
 
->Frequent or disinhibited default-mode network activity.
+>Relatively extensive daydreaming, reflection, interspection at baseline.
 
 ## Linkages
 
 ### Proxies
 
-* High score on Openness to Experience
+* Intuitive-type in MBTI
+* High score on 'Openness' in the Big Five
 
-### Partial overlap
+### Neurophysiological presentation
 
-* High score on Need for Cognition
+* Frequent or disinhibited default-mode-network activity at baseline, and perhaps even so in the presence of task demands, unless inhibited by top-down processes.
 
 ## Theoretical observations
 
 ### Characteristics
 
-interested in abstract ideas, intellectual, one idea might generate other ideas devoid of sensory input, thinking is an activity in itself
-
+interested in abstract ideas, creative, one idea might generate other ideas devoid of sensory input, thinking is an activity in itself
 

@@ -6,14 +6,15 @@ grand_parent: Framework
 
 # Reconciling (R)
 
->Relatively low need to enforce order/structure in the outside world.
+>A preference to reconcile with external ambiguity, instead of enforcing your own order and structure in the outside world.
 
 ## Linkages
 
 ### Proxies
 
-* High score on ambiguity tolerance
+* Ambiguity tolerance
+* Low score on 'Orderliness' in the Big Five
 
-### Partial overlap
+### Neurophysiological presentation
 
-* Low score on Orderliness subfacet of Big-5 trait Conscientousnes
+* Low activity in anterior cingulate cortex (ACC)

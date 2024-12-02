@@ -6,15 +6,16 @@ grand_parent: Framework
 
 # Literal (L)
 
->Infrequent or supressed default-mode network activity.
+>Relatively limited daydreaming, reflection, interspection at baseline.
 
 ## Linkages
 
 ### Proxies
 
-* Low score on Big-5 Openness to Experience
+* Sensor-type in MBTI
+* Low score on 'Openness' in the Big Five
 
-### Partial overlap
+### Neurophysiological presentation
 
-* Low score on Need for Cognition
+* Infrequent or inhibited default-mode-network activity at baseline, and perhaps even so in the absence of task demands.
 

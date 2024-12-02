@@ -11,6 +11,10 @@ grand_parent: Framework
 
 ## Linkages
 
+## Proxies
+
+* Feeling-type in MBTI (partially)
+
 ### Neurophysiological
 
 * Reliance on DLPFC over vmPFC

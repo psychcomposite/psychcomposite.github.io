@@ -11,7 +11,11 @@ grand_parent: Framework
 
 ## Linkages
 
-### Neurophysiological
+## Proxies
+
+* Thinking-type in MBTI (partially)
+
+### Neurophysiological presentation
 
 * Reliance on DLPFC over vmPFC
 * Less activity in F8 "Grounded Believer" (Dario Nardi's Neuroscience of Personality)
@@ -21,4 +25,4 @@ grand_parent: Framework
 
 ### Characteristics
 
-selecting an option without rational justification feels arbitrary, prefers central route to persuation, low ideological commitment, more interested in things than people, may have studied engineering or another technical professions, not inclined to consider a subject dry, does not usually think that people ought to behave certain ways, non-judgemental, impartial
+selecting an option without rational justification feels arbitrary, prefers central route to persuation, low ideological commitment, more interested in things than people, possibly indifferent to clothing style, may have studied engineering or another technical professions, not inclined to consider a subject dry, does not usually think that people ought to behave certain ways, non-judgemental, impartial

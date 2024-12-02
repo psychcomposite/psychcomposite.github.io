@@ -6,14 +6,16 @@ grand_parent: Framework
 
 # Imposing (I)
 
->Relatively high need to enforce order/structure in the outside world.
+>A preference to enforce your own order and structure in the outside world, instead of reconciling with external ambiguity.
 
 ## Linkages
 
 ### Proxies
 
-* Low score on Ambiguity Tolerance
+* Ambiguity intolerance
+* High score on 'Orderliness' in the Big Five
 
-### Partially correlated
+### Neurophysiological presentation
 
-* High score on Orderliness subfacet of Big-5 trait Conscientousnes
+* High activity in anterior cingulate cortex (ACC)
+* Effective context-dependent suppression of the default-mode network
