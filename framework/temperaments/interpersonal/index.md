@@ -8,9 +8,9 @@ grand_parent: Framework
 # Interpersonal temperaments
 
 
-| Feature           | Calculating Mediator (YP)  | Detached Strategist (UP) | Empathetic Connector (YM)    | Individualistic Idealist (UM)    |
+| Feature           | Empathetic Strategist (YP)  | Individualistic Strategist (UP) | Empathetic Idealist (YM)    | Individualistic Idealist (UM)    |
 | :--------------   | :--------------------| :-------------------| :---------------------- | :----------------------|
 | Primitives | Yielding (Y), Pragmatist (P) | Unwavering (U), Pragmatist (P) | Yielding (Y), Moralizer (M)    | Unwavering (U), Moralizer (M)    |
-| Decision basis    | Contextual & prosocial  | Contextual & self-oriented   | Value-based & prosocial | Value-based & self-oriented  |
+| Decision basis preference    | Contextual strategy & prosocial  | Contextual strategy   | Personal values & prosocial | Personal values  |
 | Social Priorities | Efficiency/utility & harmony | Efficiency/utility          | Authenticity & harmony         | Authenticity           |
 | Emotional Engagement | Moderate | Low | High | Moderate |
