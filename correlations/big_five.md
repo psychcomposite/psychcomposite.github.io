@@ -8,9 +8,14 @@ parent: Correlations
 | Trait            | Mapped primitives |
 | :--------        | :------: |
 | Openness         | A |
-| Conscientousness | S*I |
-| Extraversion     | D |
-| Agreeableness    | YM |
+| --- | --- |
+| Conscientousness |  |
+| * Industriousness  | SC |
+| * Orderliness    | SCL |
+| * Delibration    | C |
+| --- | --- |
+| Extraversion     | SK |
+| --- | --- |
+| Agreeableness    | H |
+| --- | --- |
 | Neuroticism      | - |
-
-*to be taken with a grain of salt, have not seen evidence for cognitive stability being implicated in conscientousness but my hypothesis is that it should be 

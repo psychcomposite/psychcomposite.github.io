@@ -8,16 +8,16 @@ grand_parent: Framework
 
 >Relatively extensive daydreaming, reflection, interspection at baseline.
 
-## Linkages
+## Proxies
 
-### Proxies
+### Neurophysiological
+
+* Frequent or disinhibited default-mode-network activity at baseline, and perhaps even so in the presence of task demands, unless inhibited by top-down processes.
+
+### Psychometric
 
 * Intuitive-type in MBTI
 * High score on 'Openness' in the Big Five
-
-### Neurophysiological presentation
-
-* Frequent or disinhibited default-mode-network activity at baseline, and perhaps even so in the presence of task demands, unless inhibited by top-down processes.
 
 ## Theoretical observations
 

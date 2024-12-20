@@ -4,7 +4,7 @@ parent: Interpersonal
 grand_parent: Temperaments
 ---
 
-# Individualistic Idealist (UM)
+# Blunt Ethicist (BE)
 
 >Value-based idealism without emotional warmth. DLPFC < vmPFC with low oxytocin activity.
 

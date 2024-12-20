@@ -1,10 +1,10 @@
 ---
-title: Empathetic Idealist (YM)
+title: Harmonizing Ethicist (BE)
 parent: Interpersonal
 grand_parent: Temperaments
 ---
 
-# Empathetic Idealist (YM)
+# Harmonizing Ethicist (BE)
 
 >Value-based idealism with emotional warmth. DLPFC < vmPFC with high oxytocin activity.
 

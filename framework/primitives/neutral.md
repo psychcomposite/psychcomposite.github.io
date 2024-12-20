@@ -6,18 +6,17 @@ grand_parent: Framework
 
 # Neutral (N)
 
->Low motivation phenotype and a relatively low degree of dependence on external rewards.
+>Low reward system sensitivity and a comparatively low degree of interest in external rewards.
 
-## Linkages
+## Proxies
 
-### Proxies
+### Neurophysiological
+
+* Low postsynaptic stratial D2 receptor count (e.g. DRD2 Taq1a rs1800497 A1-allele)
+
+### Psychometric
 
 * Low score on trait Reward Dependence
-* Low postsynaptic stratial D2 receptor count (e.g. DRD2 Taq1a rs1800497 A1-allele) OR sufficiently high baseline norepinephrine
-
-### Partial overlap
-
-* Introversion
 
 ## Theoretical observations
 

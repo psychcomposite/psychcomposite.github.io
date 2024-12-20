@@ -6,16 +6,15 @@ grand_parent: Framework
 
 # Imposing (I)
 
->A preference to enforce your own order and structure in the outside world, instead of reconciling with external ambiguity.
+>A preference to prioritize and impose one's own internal system or worldview over adapting to external ambiguity or reconciling with differing perspectives.
 
-## Linkages
+## Proxies
 
-### Proxies
+### Neurophysiological
+
+* Reliance on fp1 over fp2
+
+### Psychometric
 
 * Ambiguity intolerance
-* High score on 'Orderliness' in the Big Five
 
-### Neurophysiological presentation
-
-* High activity in anterior cingulate cortex (ACC)
-* Effective context-dependent suppression of the default-mode network

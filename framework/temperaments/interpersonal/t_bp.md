@@ -1,10 +1,10 @@
 ---
-title: Individualistic Strategist (UP)
+title: Blunt Pragmatist (BP)
 parent: Interpersonal
 grand_parent: Temperaments
 ---
 
-# Individualistic Strategist (UP)
+# Blunt Pragmatist (BP)
 
 >Logical pragmatism without emotional warmth. DLPFC \> vmPFC with low oxytocin activity.
 

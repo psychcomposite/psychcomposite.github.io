@@ -21,18 +21,18 @@ The exhaustive list of primitives are:
 
 | Primitive                                            | Trait description |
 | :----------------------------------------------------| :--------- |
-| [Dependent (D)](/framework/primitives/dependent)     | High motivation phenotype and a relatively high degree of dependence on external rewards.  |
+| [Seeking (S)](/framework/primitives/dependent)     | High motivation phenotype and a relatively high degree of dependence on external rewards.  |
 | [Neutral (N)](/framework/primitives/neutral)         | Low motivation phenotype and a relatively low degree of dependence on external rewards. |
-| [Stable (S)](/framework/primitives/stable)           | High top-down-control, leaning towards cognitive stability. |
-| [Flexible (F)](/framework/primitives/flexible)       | Low top-down-control, leaning towards cognitive flexibility. |
+| [Cortical (C)](/framework/primitives/stable)           | High baseline cortical arousal phenotype and cognitive stability - makes for stable mental representation that resist noise, whilst risking rigidity. |
+| [Kinetic (K)](/framework/primitives/flexible)       | Low cortical arousal phenotype and cognitive flexibility - makes for plastic mental representation that update readily, whilst risking distraction. |
 | [Abstract (A)](/framework/primitives/abstract)       | Frequent or disinhibited default-mode network activity. |
 | [Literal (L)](/framework/primitives/literal)         | Infrequent or supressed default-mode network activity. |
-| [Imposing (I)](/framework/primitives/imposing)       | Relatively high need to enforce order/structure in the outside world. |
-| [Reconciling (R)](/framework/primitives/reconciling) | Relatively low need to enforce order/structure in the outside world. |
-| [Yielding (Y)](/framework/primitives/yielding)       | Tendency towards high activity of the oxytocin system. |
-| [Unwavering (U)](/framework/primitives/unwavering)   | Tendency towards low activity of the oxytocin system. |
+| [Imposing (I)](/framework/primitives/imposing)       | >A preference to prioritize and impose one's own internal system or worldview over adapting to external ambiguity or reconciling with differing perspectives |
+| [Reconciling (R)](/framework/primitives/reconciling) | A preference to adapt to external ambiguity or reconcile with multiple perspectives over prioritizing and imposing one's own internal system or worldview. |
+| [Harmonizing (H)](/framework/primitives/harmonizing)       | Tendency towards high activity of the oxytocin system. |
+| [Blunt (B)](/framework/primitives/blunt)   | Tendency towards low activity of the oxytocin system. |
 | [Pragmatist (P)](/framework/primitives/pragmatist)   | Tendency to adhere to cause-and-effect relationships as opposed to principled value judgements in thought and decision making. |
-| [Moralizer (M)](/framework/primitives/moralizer)     | Tendency to adhere to principled value judgements as opposed to cause-and-effect relationships in thought and decision making. |
+| [Ethicist (E)](/framework/primitives/ethicist)     | Tendency to adhere to principled value judgements as opposed to cause-and-effect relationships in thought and decision making. |
 
 ## Temperaments
 
@@ -44,9 +44,9 @@ See [Temperaments](/framework/temperaments) for the exhaustive list.
 
 The dichotomies are defined as follows:
 
-1. [Dependent (D)](/framework/primitives/dependent) vs [Neutral (N)](/framework/primitives/neutral)
-2. [Stable (S)](/framework/primitives/stable) vs [Flexible (F)](/framework/primitives/flexible)
+1. [Seeking (S)](/framework/primitives/seeking) vs [Neutral (N)](/framework/primitives/neutral)
+2. [Cortical (C)](/framework/primitives/stable) vs [Kinetic (F)](/framework/primitives/kinetic)
 3. [Abstract (A)](/framework/primitives/abstract) vs [Literal (L)](/framework/primitives/literal)
 4. [Imposing (I)](/framework/primitives/imposing) vs [Reconciling (R)](/framework/primitives/reconciling)
-5. [Yielding (Y)](/framework/primitives/yielding) vs [Unwavering (U)](/framework/primitives/unwavering)
-6. [Pragmatist (P)](/framework/primitives/pragmatist) vs [Moralizer (M)](/framework/primitives/moralizer)
+5. [Harmonizing (H)](/framework/primitives/harmonizing) vs [Blunt (B)](/framework/primitives/blunt)
+6. [Pragmatist (P)](/framework/primitives/pragmatist) vs [Ethicist (E)](/framework/primitives/ethicist)

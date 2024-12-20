@@ -1,23 +1,18 @@
 ---
-title: Yielding (Y)
+title: Harmonizing (H)
 parent: Primitives
 grand_parent: Framework
 ---
 
-# Yielding (Y)
+# Harmonizing (H)
 
 >Tendency towards high activity of the oxytocin system.
 
-## Linkages
+## Proxies
 
-### Proxies
+### Neurophysiological
 
 * High OXTR gene expression (e.g. rs53576 G-allele)
-
-### Partial overlap
-
-* Extraversion
-* Agreeableness
 
 ## Theoretical observations
 

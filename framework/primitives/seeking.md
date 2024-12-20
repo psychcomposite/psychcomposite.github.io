@@ -1,23 +1,22 @@
 ---
-title: Dependent (D)
+title: Seeking (S)
 parent: Primitives
 grand_parent: Framework
 ---
 
-# Dependent (D)
+# Seeking (S)
 
->High motivation phenotype and a relatively high degree of dependence on external rewards.
+>High reward system sensitivity and a comparatively high degree of interest in external rewards.
 
-## Linkages
+## Proxies
 
-### Proxies
+### Neurophysiological
+
+* High postsynaptic stratial D2 receptor count (e.g. DRD2 Taq1a rs1800497 A2-allele)
+
+### Psychometric
 
 * High score on trait Reward Dependence
-* High postsynaptic stratial D2 receptor count (e.g. DRD2 Taq1a rs1800497 A2-allele) AND sufficiently low baseline norepinephrine
-
-### Partial overlap
-
-* Extraversion
 
 ## Theoretical observations
 

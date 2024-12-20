@@ -7,19 +7,18 @@ grand_parent: Framework
 # Pragmatist (P)
 
 >Tendency to integrate justified contextual cues that optimize for a valued utilitarian outcome, rather than relying on principled value judgments that deemphasize context, in thought and decision-making.
-    
-
-## Linkages
 
 ## Proxies
 
-* Thinking-type in MBTI (partially)
-
-### Neurophysiological presentation
+### Neurophysiological
 
 * Reliance on DLPFC over vmPFC
 * Less activity in F8 "Grounded Believer" (Dario Nardi's Neuroscience of Personality)
 * Possibly less activity in insula, ACC
+
+### Psychometric
+
+* Systematizing > Empathizing (Baron-Cohen)
 
 ## Theoretical observations
 
