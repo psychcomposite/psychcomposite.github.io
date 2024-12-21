@@ -16,53 +16,28 @@ The main distinctions are as follows:
 5. All primitives in PsychComposite have clearcut neurophysiological correlates.
 
 
-## Conversion table using sterotypes
+## Conversion table using MBTI sterotypes
 
-The following table uses stereotypes of MBTI types to account for the dichotomies that are included in PsychComposite but not the MBTI.
+The following table uses stereotypes of the MBTI types to account for the dichotomies that are included in PsychComposite but not the MBTI.
 
-Seeking (S) vs Neutral (N)
-Cortical (C) vs Kinetic (K)	
-Abstract (A) vs Literal (L)
-Imposing (I) vs Reconciling (R)
-Harmonizing (H) vs Blunt (B)
-Ethicist (E) vs Pragmatist (P)
-
-SCAIHE
-
-| MBTI type | PsychComposite type |
+| MBTI | PsychComposite |
 | :-------- | :------: |
-| ISTJ      | NAIP |
-| ISFJ      | NLIYM |
-| INFJ      | NAIYM |
-| INTJ      | NAIP |
-| ISTP      | NLRP |
-| ISFP      | NLRM |
-| INFP      | NARM |
-| INTP      | NARP |
-| ESTP      | SKLRP |
-| ESFP      | DLRM |
-| ENFP      | DARM |
-| ENTP      | DARP |
-| ESTJ      | DAIM |
-| ESFJ      | DAIYM |
-| ENFJ      | DAIYM |
-| ENTJ      | DAIP |
-
-Note that MBTI/JUNGIAN typology does not really have proper equivalents for IUM (imposing, unwavering, moralist) or RYM (reconciling, yielding, moralist) types due to assumptions (my feelings vs their feeling) about the introverted and extraverted feeling functions. It seems likely that high Yielding (Y) is required for Fe, but it's counterpart - Unwavering (U) - is not really needed for high Fi. That is to say that some MBTI FP types should be considered Yielding (Y) and some Unwavering (U). This preference could distinguish people-pleasing FP types from more hard-headed FP moralists.
-
-### Resolving intratype variation with PsychComposite
-
-The following are a couple of examples on how PsychComposite can be used to explain intratype variation:
-
-| MBTI type variant      | PsychComposite type  |
-| :----------------------| :------------------: |
-| ENTP with low Fe       | SAR**B**P *(blunt)* |
-| ENTP with high Fe      | SAR**H**P *(harmonizing)*   |
-| ENTP, inventor subtype | S**C**ARP *(more cortical)*    |
-| ENTP, debater subtype  | S**K**ARP *(more kinetic)*  |
-| Fi-like ENFP           | SAR**B**P *(blunt)* |
-| Fe-like ENFP           | SAR**H**P *(harmonizing)*   |
-
+| ISTJ      | NCLRBP |
+| ISFJ      | NCLRHE |
+| INFJ      | NCARBP |
+| INTJ      | NCARHE |
+| ISTP      | NKLIBP |
+| ISFP      | NKLIHE |
+| INTP      | NKAIBP |
+| INFP      | NKAIHE |
+| ESTP      | SKLRBP |
+| ESFP      | SKLRHE |
+| ENTP      | SKARBP |
+| ENFP      | SKARHE |
+| ESTJ      | SCLIBP |
+| ESFJ      | SCLIHE |
+| ENTJ      | SCAIBP |
+| ENFJ      | SCAIHE |
 
 ## Jung's cognitive functions
 
@@ -108,7 +83,7 @@ Observations:
 Characterized by cognitive flexibility, activity in the default mode network and openness to experience. A profile of high DMN activity + striatal DA > PFC DA, meaning more overinclusive thinking and positive affect mediated exploration, with comparatively little PFC inhibition.
 
 
-### Introverted Intution
+#### Introverted Intution
 
 >Ni = Abstract (A) + Cortical (C)
 
@@ -132,24 +107,4 @@ Characterized by cognitive stability, comparatively lower default mode network a
 
 ## Judging
 
-### Thinking
-
-#### Extraverted Thinking
-
->Te = Imposing (I) + Pragmatist (P)
-
-#### Introverted Thinking
-
->Ti = Reconciling (R) + Pragmatist (P)
-
-### Feeling
-
-The special thing with with feeling/ethics is that both the extraverted and introverted variant is linked to the Imposing (I) trait - reflecting a high need to explain and decide their values rather than reconcile with external context.
-
-#### Extraverted Feeling
-
->Fe = Imposing (I) + Ethicist (E) + Harmonizing (H)
-
-#### Introverted Feeling
-
->Fi = Imposing (I) + Ethicist (E)
+To be continued...
