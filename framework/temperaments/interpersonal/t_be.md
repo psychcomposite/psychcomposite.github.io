@@ -4,9 +4,9 @@ parent: Interpersonal
 grand_parent: Temperaments
 ---
 
-# Blunt Ethicist (BE)
+# Blunt, Ethicist (BE)
 
->Value-based idealism without emotional warmth. DLPFC < vmPFC with low oxytocin activity.
+>Value-based idealism without emotional warmth.
 
 ## Portrait
 * Focuses on living authentically according to personal values but struggles to bond with others.
