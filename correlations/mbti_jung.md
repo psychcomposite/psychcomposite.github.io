@@ -9,7 +9,7 @@ parent: Correlations
 
 The main distinctions are as follows:
 
-1. Extraversion/Introversion dichotomy is split into two separate dichotomies: Seeking (S) vs Neutral (N) and Cortical (C) vs Kinetic (K), which refer to reward system sensitivity and cognitive stability & baseline cortical arousal, respectively.
+1. Extraversion/Introversion dichotomy is split into two separate dichotomies: Stratial (S) vs Neutral (N) and Cortical (C) vs Kinetic (K), which refer to reward system sensitivity and cognitive stability & baseline cortical arousal, respectively.
 2. Feeling/Thinking dichotomy is split into Pragmatist (P) vs Ethicist (E) and Harmonizing (H) vs Blunt (B), which clarifies confusion of how a thinker type can be nice, or how a person with strong convictions might not care about harmony.
 3. Less emphasis in placed on cognition either being extraverted or introverted (e.g. extraverted judging or introverted perceiving).
 4. In contrast to the Judging (J) vs Perceiving (P) dichotomy, our Imposing (I) vs Reconciling (R) dichotomy captures the relationship a person has to external ambiguity, without including aspects of conscientousness. Do you have a preference to externalize internal models (explain/decide) or internalize external information (reconcile/adapt)? Whether you are orderly or good at managing your time is not captured by this dichotomy.
@@ -76,7 +76,7 @@ Observations:
 
 #### Extraverted Intution
 
->Ne = Seeking (S) + Abstract (A) + Kinetic (K)
+>Ne = Stratial (S) + Abstract (A) + Kinetic (K)
 
 >Ne-like individuals may start with lower baseline cortical arousal and use external stimulation (exploration, novelty, external patterns) to increase it, creating bursts of creativity and idea generation.
 
@@ -85,7 +85,7 @@ Characterized by cognitive flexibility, activity in the default mode network and
 
 #### Introverted Intution
 
->Ni = Abstract (A) + Cortical (C)
+>Ni = Stratial (A) + Cortical (C)
 
 > Ni-like individuals may naturally have higher baseline cortical arousal, which facilitates their preference for introspective, sustained, and integrative thinking. They can handle deep processing without needing external stimulation to maintain focus.
 

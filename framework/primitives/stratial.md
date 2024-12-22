@@ -1,10 +1,10 @@
 ---
-title: Seeking (S)
+title: Stratial (S)
 parent: Primitives
 grand_parent: Framework
 ---
 
-# Seeking (S)
+# Stratial (S)
 
 >High reward system sensitivity and a comparatively high degree of interest in external rewards.
 
