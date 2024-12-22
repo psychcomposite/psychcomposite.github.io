@@ -1,0 +1,11 @@
+---
+layout: none
+permalink: utilities/temperaments.json
+---
+[
+{% assign matched_pages = site.pages | where_exp: "item", "item.path contains 'tmpr_'" %}
+{% for page in matched_pages %}
+  ["{{ page.path }}", "{{ page.title }}"]{% if forloop.last == false %},{% endif %}
+{% endfor %}
+]
+

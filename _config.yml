@@ -34,6 +34,10 @@ ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (t
 remote_theme: just-the-docs/just-the-docs@v0.8.2
 plugins:
   - jekyll-feed
+include:
+  - temperaments.json
+
+#color_scheme: dark
 
 # Exclude from processing.
 # The following items will not be processed, by default.

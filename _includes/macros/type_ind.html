@@ -242,15 +242,15 @@
         </div>
     <script>
         const items = [
-            ["I seek approval from others", 'D', false],
-            ["You could describe me as a bon-vivant", 'D', false],
+            ["I seek approval from others", 'S', false],
+            ["You could describe me as a bon-vivant", 'S', false],
 
-            ["I have a hard time letting go of things", 'S', false],
-            ["Some stress is just what I need to perform on exams", 'S', true],
-            ["I derive a lot of pleasure from small things", 'S', false],
+            ["I have a hard time letting go of things", 'C', false],
+            ["Some stress is just what I need to perform on exams", 'C', true],
+            ["I derive a lot of pleasure from small things", 'C', false],
 
-            ["I enjoy rough sports", 'F', false],
-            ["I find it easy to stop what I am doing", 'F', false],
+            ["I enjoy rough sports", 'K', false],
+            ["I find it easy to stop what I am doing", 'K', false],
 
             ["I enjoy thinking for it's own sake", 'A', false],
             ["My brain keeps me entertained even without external stimulation", 'A', false],
@@ -265,16 +265,16 @@
 
             ["I leave things messy when it is practical", 'R', false],
 
-            ["I often nod my head so people know I am listening", 'Y', false],
-            ["I don't feel other people's emotions", 'Y', true],
-            ["I feel compelled to use pleasing body language", 'Y', false],
+            ["I often nod my head so people know I am listening", 'H', false],
+            ["I don't feel other people's emotions", 'H', true],
+            ["I feel compelled to use pleasing body language", 'H', false],
 
-            ["I smile when I want to, not out of social obligation", 'U', false],
+            ["I smile when I want to, not out of social obligation", 'B', false],
             
             ["I don't fight for causes", 'P', false],
             ["I omit details that could affect me negatively", 'P', false],
             
-            ["I can appear inflexible with my values", 'M', false],
+            ["I can appear inflexible with my values", 'E', false],
         ];
 
         let shuffled_items = items
@@ -282,10 +282,20 @@
             .sort((a, b) => a.sort - b.sort)
             .map(({ value }) => value);
 
-        const temperaments = [
-            ["DY", "Warmth", "warmth"],
-            ["UM", "Hard Shell", "hard_shell"]
-        ];
+        const temperaments = [];
+        fetch('temperaments.json')
+            .then((response) => response.json())
+            .then((data) => {
+                for (const item of data) {
+                    const pageFilePath = "/" + item[0];
+                    const pageTitle = item[1];
+
+                    const parts = pageFilePath.split('/');
+                    const fileName = parts[parts.length - 1];
+                    const letters = fileName.replace("tmpr_", "").replace(".md", "").toUpperCase();
+                    temperaments.push([letters, pageTitle, pageFilePath.replace('.md', '.html')])
+                }
+            });
 
         let form = document.getElementById("type_ind_form");
 
@@ -356,18 +366,18 @@
             event.preventDefault();
 
             const preferences = new Map([ 
-                [ 'D', 0 ],
-                [ 'N', 0 ],
                 [ 'S', 0 ],
-                [ 'F', 0 ],
+                [ 'N', 0 ],
+                [ 'C', 0 ],
+                [ 'K', 0 ],
                 [ 'A', 0 ],
                 [ 'L', 0 ],
                 [ 'I', 0 ],
                 [ 'R', 0 ],
-                [ 'Y', 0 ],
-                [ 'U', 0 ],
+                [ 'H', 0 ],
+                [ 'B', 0 ],
                 [ 'P', 0 ],
-                [ 'M', 0 ]
+                [ 'E', 0 ]
             ]);
 
             let answerCount = 0;
@@ -405,12 +415,12 @@
             let personality_type = "";
 
             let primitives = [
-                ['D', 'N'],
-                ['S', 'F'],
+                ['S', 'N'],
+                ['C', 'K'],
                 ['A', 'L'],
                 ['I', 'R'],
-                ['Y', 'U'],
-                ['P', 'M'],
+                ['H', 'B'],
+                ['P', 'E'],
             ];
 
             for (let [p1, p2] of primitives)
@@ -431,6 +441,7 @@
             let resultTemperaments = document.getElementById("temperamentResultLabel");
             resultTemperaments.innerHTML = "";
 
+            let resultTemperamentsHTML = "<ul>";
             for(let [letters, desc, link] of temperaments)
             {
                 let ok = true;
@@ -445,10 +456,12 @@
 
                 if(ok)
                 {
-                    let inner = desc + " (" + letters + ")";
-                    resultTemperaments.innerHTML += "<a href=\"/framework/temperaments/" + link + "\">" + inner +"</a>" + ",";
+                    let inner = desc;
+                    resultTemperamentsHTML += "<li><a href=\"" + link + "\">" + inner +"</a>" + "</li>";
                 }
             }
+            resultTemperamentsHTML += "</ul>";
+            resultTemperaments.innerHTML += resultTemperamentsHTML;
 
             let resultByPrimitive = document.getElementById("resultByPrimitive");
             
