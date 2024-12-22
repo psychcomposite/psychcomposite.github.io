@@ -20,7 +20,7 @@ grand_parent: Framework
 
 ### Characteristics
 
-sustained attention to salient thoughts, intentional, hard to let go of things, prolonged and deep focus sessions, performance drops with increased stress, more comfortable doing less, insight "aha" problem solving, experiences ups and downs in life as more intense, worrier, pain sensitivity, not attracted to high risk sports
+deliberate, thinker, sustained attention to salient thoughts, hard to let go of things, prolonged and deep focus sessions, performance drops with increased stress, more comfortable doing less, worrier, pain sensitivity, not attracted to high risk sports
 
 
 ## Assessment

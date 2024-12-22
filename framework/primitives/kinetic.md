@@ -19,4 +19,4 @@ grand_parent: Framework
 
 ### Characteristics
 
-easily shifts gear, distracted, easy to let go of things, in their element during stressful periods or exams, uncomfortable not doing, emotional resilience, may have been labelled ADHD, warrier, lower pain sensitivity, likes high risk sports
+flexible, doer, easy to let go of things, becomes more focused with stress, uncomfortable not doing things for too long, easily distracted, emotional resilience, warrior, lower pain sensitivity, attracted to high risk sports
