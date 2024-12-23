@@ -1,11 +1,11 @@
 ---
-title: Judging
+title: Interpersonal
 has_children: true
 parent: Temperaments
 grand_parent: Framework
 ---
 
-# Judging temperaments
+# Interpersonal temperaments
 
 
 | Feature           | Harmonizing Pragmatist (HP)  | Blunt Pragmatist (BP) | Harmonizing Ethicist (HE)    | Blunt Ethicist (BE)    |

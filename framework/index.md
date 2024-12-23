@@ -6,10 +6,9 @@ has_children: true
 # Framework
 
 PsychComposite outlines 6 dichotomies, 12 primitives and several temperaments.
-For each dichotomy where a clear preference towards a specific primitive exists, the corresponding primitive letter is included, and together they are aggregated to form a personality type, e.g. DSAI, LSI, YP. 
-Contrary to other personality systems we do not require that you have a clear preference in every dichotomy; DS is hence just as valid of a personality type as DSAIYP.
+For each dichotomy where a clear preference towards a specific primitive exists, the corresponding primitive letter is included, and together they are aggregated to form a personality type, e.g. SKAI, LKI, BP. 
+Contrary to other personality systems we do not require that you have a clear preference in every dichotomy; SC is hence just as valid of a personality type as SCAIHP.
 When a preference in multiple dichotomies exists, the person/type is said to belong to a set of [Temperaments](/framework/temperaments).
-For example, a person with DFY preferences belongs to the temperaments [Starter (DF)](/framework/temperaments/starter) and [Warmth (DY)](/framework/temperaments/warmth).
 
 ## Primitives
 
@@ -21,7 +20,7 @@ The exhaustive list of primitives are:
 
 | Primitive                                            | Trait description |
 | :----------------------------------------------------| :--------- |
-| [Seeking (S)](/framework/primitives/dependent)     | High motivation phenotype and a relatively high degree of dependence on external rewards.  |
+| [Stratial (S)](/framework/primitives/stratial)     | High motivation phenotype and a relatively high degree of dependence on external rewards.  |
 | [Neutral (N)](/framework/primitives/neutral)         | Low motivation phenotype and a relatively low degree of dependence on external rewards. |
 | [Cortical (C)](/framework/primitives/stable)           | High baseline cortical arousal phenotype and cognitive stability - makes for stable mental representation that resist noise, whilst risking rigidity. |
 | [Kinetic (K)](/framework/primitives/flexible)       | Low cortical arousal phenotype and cognitive flexibility - makes for plastic mental representation that update readily, whilst risking distraction. |
@@ -44,7 +43,7 @@ See [Temperaments](/framework/temperaments) for the exhaustive list.
 
 The dichotomies are defined as follows:
 
-1. [Seeking (S)](/framework/primitives/seeking) vs [Neutral (N)](/framework/primitives/neutral)
+1. [Stratial (S)](/framework/primitives/stratial) vs [Neutral (N)](/framework/primitives/neutral)
 2. [Cortical (C)](/framework/primitives/stable) vs [Kinetic (F)](/framework/primitives/kinetic)
 3. [Abstract (A)](/framework/primitives/abstract) vs [Literal (L)](/framework/primitives/literal)
 4. [Imposing (I)](/framework/primitives/imposing) vs [Reconciling (R)](/framework/primitives/reconciling)
