@@ -6,7 +6,7 @@ grand_parent: Framework
 
 # Reconciling (R)
 
->A preference to reconcile with external ambiguity, instead of enforcing your own order and structure in the outside world.
+>A preference to reconcile with external ambiguity over prioritizing and imposin one's own internal system or worldview.
 
 ## Proxies
 

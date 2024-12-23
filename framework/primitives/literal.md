@@ -16,6 +16,5 @@ grand_parent: Framework
 
 ### Psychometric
 
-* Sensor-type in MBTI
 * Low score on 'Openness' in the Big Five
 

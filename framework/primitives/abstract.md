@@ -16,7 +16,6 @@ grand_parent: Framework
 
 ### Psychometric
 
-* Intuitive-type in MBTI
 * High score on 'Openness' in the Big Five
 
 ## Theoretical observations

@@ -18,4 +18,4 @@ grand_parent: Framework
 
 ### Characteristics
 
-social cues are not very important, less likely to nod along when someone speaks
+social cues are not very important, less likely to nod along when someone speaks,  

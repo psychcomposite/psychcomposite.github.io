@@ -16,10 +16,6 @@ grand_parent: Framework
 * Less activity in F8 "Grounded Believer" (Dario Nardi's Neuroscience of Personality)
 * Possibly less activity in insula, ACC
 
-### Psychometric
-
-* Systematizing > Empathizing (Baron-Cohen)
-
 ## Theoretical observations
 
 ### Characteristics

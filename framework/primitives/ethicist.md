@@ -13,13 +13,9 @@ grand_parent: Framework
 
 ### Neurophysiological
 
-* Reliance on DLPFC over vmPFC
+* Reliance on vmPFC over DLPFC 
 * Higher activity in F8 "Grounded Believer" (Dario Nardi's Neuroscience of Personality)
 * Possibly higher activity in insula, ACC
-
-### Psychometric
-
-* Empathizing > Systematizing  (Baron-Cohen)
 
 ## Theoretical observations
 
@@ -32,3 +28,4 @@ more interested in people than things, natural to select an option without ratio
 | Score | Questionnaire item |
 | :-----| :--------- |
 | +1    | I can appear inflexible with my values |
+| +1    | I know exactly what I like and dislike |
